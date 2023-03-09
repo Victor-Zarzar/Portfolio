@@ -616,7 +616,7 @@ section {
 --------------------------------------------------------------*/
 
 
-.project .project-title {
+.projects .projects-title {
   font-size: 26px;
   font-weight: 700;
   margin-top: 20px;
@@ -624,7 +624,7 @@ section {
   color: #050d18;
 }
 
-.project .project-item h4 {
+.projects .projects-item h4 {
   line-height: 18px;
   font-size: 18px;
   font-weight: 600;
@@ -633,7 +633,7 @@ section {
   color: #050d18;
   margin-bottom: 10px;
 }
-.project .project-item h5 {
+.projects .projects-item h5 {
   font-size: 16px;
   background: #e4edf9;
   padding: 5px 15px;
@@ -641,13 +641,13 @@ section {
   font-weight: 600;
   margin-bottom: 10px;
 }
-.project .project-item ul {
+.projects .projects-item ul {
   padding-left: 20px;
 }
-.project .project-item ul li {
+.projects .projects-item ul li {
   padding-bottom: 10px;
 }
-.project .project-item:last-child {
+.projects .projects-item:last-child {
   padding-bottom: 0;
 }
 
